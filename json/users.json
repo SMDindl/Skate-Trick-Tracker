@@ -1,0 +1,30 @@
+{
+    "user": {
+        "id": "7f2e1b9b-68e1-4c8b-9417-32bf101d1624",
+        "username": "SDindl",
+        "password": "RowleyHasTheCheeseTouch",
+        "tricks": [
+            {
+            "trickname": "Big-spin",
+            "trickType": "flatground",
+            "stance": "Fakie",
+            "landed": true,
+            "selfRating": 8,
+            "goal": "Improve consistency",
+            "dateLanded": "10/3/2024",
+            "videoLink": "https://youtu.be/sample1"
+            },
+            {
+            "trickName": "Tre Flip",
+            "trickType": "flatground",
+            "stance": "regular",
+            "landed": false,
+            "selfRating": -1,
+            "goal": " ",
+            "dateLanded": " ",
+            "videoLink": null
+            }
+        ]
+    }
+}
+  
